@@ -29,7 +29,7 @@ Comprehensive analysis of export data was conducted to identify key trends, calc
 - Time dimensions (Month, Year), Currency data
 - Material types, Freight charges, Export destinations
 
-## 🛠️ Technologies Used
+## Technologies Used
 - SQL Server
 - Multiple dimension tables
 - Complex joins and business logic were implemented
